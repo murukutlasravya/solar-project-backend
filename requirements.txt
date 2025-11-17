@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+SQLAlchemy==2.0.36
+pydantic==2.9.2
+pydantic-settings==2.6.0
+python-multipart==0.0.9
+pypdf==4.3.1
